@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @ErickVonnDavidBalintataw
 - 👀 I’m interested in Learning Complex Coding and Ethical Hacking.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently studying
 - 📫 How to reach me. --> 21-00958@g.batstate-u.edu.ph
 
 <!---
